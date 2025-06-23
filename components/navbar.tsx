@@ -18,7 +18,7 @@ export default function Navbar({}): any {
       </Link>
       <div className="items-center hidden gap-2 md:flex">
         <ModeToggle />
-        <Link href="https://github.com/bishalsaraniah/FileFlex">
+        <Link href="https://github.com/bishalsaraniah/FileConversion">
           <Button
             variant="default"
             className="items-center hidden gap-2 rounded-full bg-primary w-fit md:flex"
